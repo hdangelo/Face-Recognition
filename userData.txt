@@ -1,0 +1,2 @@
+"Hernan","16266691","M","22/12/1962","Tarjetas VISA"
+"Angelina", "22404366", "F", "17/09/1971", "Tarjeta AMEX"
